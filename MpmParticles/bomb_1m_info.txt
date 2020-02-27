@@ -1,0 +1,4 @@
+Total Particle Number = 984018
+Device Count = 1
+[Dev 0] Particle Number = 984018
+[Dev 0] Bomb Number = 98
